@@ -1,8 +1,8 @@
 # The 3 AM Excuse
 
-![Competition](https://make.fun/badge/u-hazel-walrus-38-4764-the-3-am-excuse-c1017878.svg)
-![Rank](https://make.fun/badge/u-hazel-walrus-38-4764-the-3-am-excuse-c1017878/SRamadhan-07/makefun-excuse-3am-wallet/rank.svg)
-![Reward](https://make.fun/badge/u-hazel-walrus-38-4764-the-3-am-excuse-c1017878/SRamadhan-07/makefun-excuse-3am-wallet/reward.svg)
+[![Competition](https://make.fun/badge/u-hazel-walrus-38-4764-the-3-am-excuse-c1017878.svg)](https://make.fun/bounty/u-hazel-walrus-38-4764-the-3-am-excuse-c1017878)
+[![Rank](https://make.fun/badge/u-hazel-walrus-38-4764-the-3-am-excuse-c1017878/SRamadhan-07/makefun-excuse-3am-wallet/rank.svg)](https://make.fun/bounty/u-hazel-walrus-38-4764-the-3-am-excuse-c1017878)
+[![Reward](https://make.fun/badge/u-hazel-walrus-38-4764-the-3-am-excuse-c1017878/SRamadhan-07/makefun-excuse-3am-wallet/reward.svg)](https://make.fun/bounty/u-hazel-walrus-38-4764-the-3-am-excuse-c1017878)
 
 A Python program (standard library only) that writes a single line to
 `/output/entry.txt`: the excuse a hardware wallet gives for refusing to
